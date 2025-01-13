@@ -85,7 +85,7 @@
         <mxCell id="YawHtOCam4Y2LVF4TnOF-8" value="&lt;div&gt;bailey&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="530" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ddR5uN7rt8JGsBOF_Ijd-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YawHtOCam4Y2LVF4TnOF-10" target="YawHtOCam4Y2LVF4TnOF-16" edge="1">
+        <mxCell id="ddR5uN7rt8JGsBOF_Ijd-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YawHtOCam4Y2LVF4TnOF-10" target="YawHtOCam4Y2LVF4TnOF-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="260" />
