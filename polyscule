@@ -47,8 +47,15 @@
         <mxCell id="YawHtOCam4Y2LVF4TnOF-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YawHtOCam4Y2LVF4TnOF-1" target="YawHtOCam4Y2LVF4TnOF-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xpKsFXBeHTWYYk1OyyKB-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YawHtOCam4Y2LVF4TnOF-1" target="YawHtOCam4Y2LVF4TnOF-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YawHtOCam4Y2LVF4TnOF-1" value="hootis" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="260" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YawHtOCam4Y2LVF4TnOF-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YawHtOCam4Y2LVF4TnOF-3" target="YawHtOCam4Y2LVF4TnOF-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -68,7 +75,7 @@
         <mxCell id="YawHtOCam4Y2LVF4TnOF-3" value="&lt;div&gt;kali&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="250" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ddR5uN7rt8JGsBOF_Ijd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YawHtOCam4Y2LVF4TnOF-6" target="YawHtOCam4Y2LVF4TnOF-10" edge="1">
+        <mxCell id="ddR5uN7rt8JGsBOF_Ijd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YawHtOCam4Y2LVF4TnOF-6" target="YawHtOCam4Y2LVF4TnOF-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="490" y="420" />
@@ -80,7 +87,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YawHtOCam4Y2LVF4TnOF-6" value="&lt;div&gt;wispy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="440" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YawHtOCam4Y2LVF4TnOF-8" value="&lt;div&gt;bailey&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="530" y="370" width="120" height="60" as="geometry" />
@@ -112,7 +119,7 @@
           <mxGeometry x="180" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YawHtOCam4Y2LVF4TnOF-22" value="i think hootis has at least 1 maybe 2 other partners but idk their name(s)" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="300" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
